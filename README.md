@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AgostinaCataldi
-- 🌱 I'm a psychology student and I'm working at Modelit, an Uruguayan IT company as a Talent Sourcer
+- 🌱 I'm a psychology student and I'm working at Modelit, a Uruguayan IT company as a Talent Sourcer
 - 💞️ I’m looking for Devs, QAs, Admins with experience with Salesforce that would like to work with us
 - 📫 agostina.cataldi@modelit.xyz or www.linkedin.com/in/agostinacataldiguido
 
